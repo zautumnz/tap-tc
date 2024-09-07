@@ -1,5 +1,11 @@
 # tap-tc
 
+Deprecated. From npm stats it looks like there are a few people using this, but
+I haven't used TeamCity in years and hopefully never will again, so if you need
+this, please feel free to fork it.
+
+----
+
 Formats [TAP](https://testanything.org/tap-specification.html) output for TeamCity.
 
 Maintained fork of [tap-teamcity](https://github.com/smockle/tap-teamcity#readme).
