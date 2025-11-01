@@ -2,7 +2,7 @@
   "name": "tap-tc",
   "description": "Formats TAP output for TeamCity.",
   "version": "4.4.4",
-  "author": "Zac Anger <zac@zacanger.com> (http://zacanger.com)",
+  "author": "Autumn Z",
   "license": "MIT",
   "main": "lib/tap-teamcity.js",
   "module": "lib/tap-teamcity.mjs",
@@ -19,13 +19,13 @@
     "test:lint": "standard bin lib",
     "test:tape": "tape lib/*.test.js | tap-spec"
   },
-  "homepage": "https://github.com/zacanger/tap-tc#readme",
+  "homepage": "https://github.com/zautumnz/tap-tc#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zacanger/tap-teamcity.git"
+    "url": "git+https://github.com/zautumnz/tap-teamcity.git"
   },
   "bugs": {
-    "url": "https://github.com/zacanger/tap-tc/issues"
+    "url": "https://github.com/zautumnz/tap-tc/issues"
   },
   "keywords": [
     "output",
